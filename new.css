@@ -1,0 +1,449 @@
+#bg1{
+    height:50vh;
+    width:98vw;
+}
+ video{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body, html {
+      height: 100%;
+    }
+
+    #bg-video {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      object-fit: cover;
+      z-index: -1;
+    }
+    .nav-link{
+      color:aliceblue;
+      font-size: 20px;
+      font-family: 'Open Sans', sans-serif;
+      padding-left: 28px;
+    
+    }
+    #home{
+      height: 60vh;
+      width:99vw;
+      margin-top:80px;
+      justify-content: center;
+      padding-left:100px;
+      gap:2px;
+
+    }
+    .red {
+      color:gray;
+      font-size:70px;
+       padding-left:400px;
+       font-family: serif;
+    }
+    .blue {
+      color:#ffffff;
+      font-weight:bold;
+      font-family: Onest,sans-serif;
+      font-size:60px;
+    }
+     .r{
+      font-size: 60px;
+      font-family: "Noto Serif", serif;
+      font-weight:500px;
+      font-style: normal;
+      padding-left:390px;
+    }
+    .gray{
+      color:#007Bff;
+      font-size:50px;
+      font-optical-sizing: auto;
+      font-weight:bold;
+      font-family: "Noto Serif", serif;
+      font-optical-sizing: auto;
+    }
+    .section {
+      justify-content: center;
+      padding:5px;
+      display: grid;
+      margin-left:50px;
+      grid-template-columns: auto auto;
+      font-family: Arial, sans-serif;
+    }
+
+    .text-box {
+      max-width:500px;
+    }
+
+    .text-box h3 {
+      font-size:50px;
+      color:gray;
+      font-family: Onest,sans-serif;
+      padding-left: 100px;
+    }
+    video{
+      width: 150px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    }
+    p{
+      font-size:24px;
+      color:#cac8c8;
+      font-family:Onest,sans-serif;
+      padding:15px 120px 0px 160px;
+    }
+#Raju{
+      height:90vh;
+      width:60vw;
+      display: grid;
+      grid-template-columns: auto auto;
+      gap:5px;
+      margin-right:100px;
+      border: 1px;
+    }
+    #img{
+      background-image: url(WhatsApp\ Image\ 2025-08-11\ at\ 12.18.44\ PM.jpeg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      height:80vh;
+      width:20vw;
+      border:0px solid gainsboro;
+      border-radius:25px;
+      margin:50px 0px 0px 200px;
+      padding-left:50px;
+    }
+    #profile-summary p{
+      width:40vw;
+      color:rgb(227, 223, 223);
+      padding-top:120px ;
+      font-size:22px;
+      padding:90px 0px 0px 235px;
+      margin:50px 0px 0px 0px;
+    }
+    h1{
+      color: #ffffff;
+    }
+    #fm{
+      height:60vh;
+      width:90vw;
+      display: grid;
+      grid-template-columns: auto auto auto auto;
+      margin-left: 5px;
+      padding: 10px 0px 0px 60px;
+    }
+    #pics{
+      height:50vh; 
+      width:15vw;
+      background-image: url(WhatsApp\ Image\ 2025-08-11\ at\ 12.18.57\ PM\ \(1\).jpeg);
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+    #pic{ 
+    height:50vh; 
+      width:15vw;
+      background-image: url(WhatsApp\ Image\ 2025-08-11\ at\ 12.17.34\ PM.jpeg);
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+    #im{
+      height:50vh; 
+      width:15vw;
+      background-image: url(WhatsApp\ Image\ 2025-08-11\ at\ 12.17.34\ PM\ \(1\).jpeg);
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+    #imge{
+      height:59vh; 
+      width:15vw;
+      background-image: url(WhatsApp\ Image\ 2025-08-11\ at\ 12.19.00\ PM.jpeg);
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+    #Bestmemories{
+      color:#ffffff;
+    }
+    #Worstmemories{
+      color: #ffffff;
+    }
+    li{
+      padding-left: 100px;
+    }
+    #gifts{
+      color: #ffffff;
+    }
+     .container{
+      height: 60vh;
+      width: 70vw;
+    }
+   h2 {
+  font-weight: bold;
+  color:rgb(227, 223, 223);
+  padding-left:100px;
+}
+
+.carousel {
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  padding: 30px;
+}
+
+.carousel-item img {
+  height:90vh;
+  width:25vw;
+  border: 4px solid #dee2e6;
+  border-radius: 10px;
+  max-height: 300px;
+  object-fit: cover;
+  background-color: #555;
+  background-size: cover;
+}
+
+.carousel-item p {
+  font-size:22px;
+  color:#ffffff;
+  font-family: Onest,sans-serif;
+  max-width: 700px;
+  padding: 10px 20px;
+  border-radius: 8px;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: #6c757d;
+  border-radius: 50%;
+  padding: 10px;
+}
+k{
+  height: 70vh;
+  width: 90vw;
+  margin: 80px;
+  color: #ffffff;
+  font-size: 16px;
+}
+#k,p{
+  font-size: 16px;
+}
+#imgs{
+  height:30vh;
+  width:80vw;
+  display: flex;
+  background-repeat: no-repeat;
+}
+#i1{
+  height: 40vh;
+  width: 30vw;
+  background-image: url("https://media.images.yourquote.in/post/large/0/0/7/89/Mk712183.jpg");
+  background-size: contain;
+  background-repeat:no-repeat;
+
+}
+#i2{
+    height: 40vh;
+  width: 30vw;
+  background-image: url("https://tse3.mm.bing.net/th/id/OIP.CDb117oAEF46lIu11ixKTQAAAA?pid=Api&P=0&h=180");
+  background-size: contain;
+  background-repeat:no-repeat;
+}
+@media screen and (max-width: 600px) {
+  
+  #home {
+    padding-left: 0;
+    margin-top: 40px;
+    text-align: center;
+    height: auto;
+  }
+  .red, .r, .blue, .gray {
+    padding-left: 0;
+    font-size: 22px !important;
+    display: block;
+  }
+  .section {
+    grid-template-columns: 1fr;
+    margin-left: 0;
+    text-align: center;
+  }
+  .text-box h3 {
+    font-size: 22px;
+  }
+  p {
+    padding: 20px;
+    font-size: 14px;
+  }
+  video {
+    width: 100% !important;
+    height: auto;
+  }
+
+  #Raju{
+    grid-template-columns: 1fr;
+    width: 100%;
+    height: auto;
+    margin: 0;
+  }
+  #img {
+    width: 100%;
+    height:500px;
+    margin: 0;
+    padding-left: 0;
+    background-size: contain;
+    background-position: center;
+  }
+  #profile-summary p {
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    margin: 0;
+  }
+
+  #fm{
+    height:180vh;
+    width:30vw;
+    display: flex;
+    flex-direction: row;
+  }
+  #pics {
+    width: 100%;
+    height:55vh;
+    max-height: none;
+  }
+  #pic{
+     width: 100%;
+    height: 30vh;
+    max-height: none;
+  }
+  #im{
+     width: 100%;
+    height:55vh;
+    max-height: none;
+  }
+  #imge{
+     width: 100%;
+    height: 75vh;
+    max-height: none;
+  }
+  #Bestmemories{
+    height:30vh;
+    width:90vw;
+  }
+  li{
+    padding-left: 10px;
+    font-size: 20px;
+  }
+  .carousel-item,img{
+    height:40vh;
+    width:100vw;
+    background-size: contain;
+  
+  }
+  }
+/* Reset & global background */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  background-image: url("your-background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* ----- MEDIA QUERIES ----- */
+
+/* Tablets (768px and down) */
+@media (max-width: 768px) {
+  body {
+    background-image: url("your-background-mobile.jpg"); /* optional */
+    background-size: cover;
+    background-position: center;
+  }
+
+  #Raju, #fm, #Bestmemories, #Worstmemories, #gifts, #Projects, #k, #imgs {
+    width: 95%;
+    margin: auto;
+  }
+
+  img {
+    max-width: 200%;
+    height: auto;
+  }
+
+  p {
+    font-size: 14px;
+    line-height: 1.4;
+  }
+}
+
+/* Mobile phones (480px and down) */
+@media (max-width: 480px) {
+  body {
+    background-size: cover;
+    background-position: center;
+  }
+
+  h1, h2 {
+    font-size: 18px;
+    text-align: center;
+  }
+
+  p, li {
+    font-size: 15px;
+  }
+
+  #Raju, #fm, #Bestmemories, #Worstmemories, #gifts, #Projects, #k, #imgs {
+    flex-direction: column;
+    width: 100%;
+    padding: 10px;
+  }
+  #projects,img{
+    width:99vw;
+    background-size: contain;
+  }
+
+  #imgs {
+    width: 100%;
+    height: 50vh;
+  }
+  #i2{
+    width:100%;
+    height: 20vh;
+  }
+}
+#img, #pics, #pic, #im, #imge, #i1, #i2 {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  min-height: 300px; /* change as needed */
+}
+
+/* Mobile fix */
+@media (max-width: 480px) {
+  #img, #pics, #pic, #im, #imge, #i1, #i2 {
+    min-height: 150px;
+  }
+}
+/* Default carousel image style */
+.carousel-item img {
+  width: 100%;
+  height: auto;
+  max-height: 80vh; /* prevents very tall images from overflowing */
+  object-fit: contain; /* ensures the whole image is shown */
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+  .carousel-item img {
+    max-height: 60vh; /* shorter for small screens */
+  }
+}
+
+/* Extra small devices */
+@media (max-width: 480px) {
+  .carousel-item img {
+    max-height: 50vh;
+  }
+}
